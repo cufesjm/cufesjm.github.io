@@ -279,8 +279,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [史嘉铭]
-  first_name: []
+  last_name: [Shi, 史嘉铭]
+  first_name: [Jiaming, ""]
 
   style: apa
   locale: en
